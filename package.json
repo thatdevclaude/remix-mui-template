@@ -23,6 +23,7 @@
     "@mui/material": "latest",
     "@remix-run/react": "latest",
     "@remix-run/serve": "latest",
+    "@remix-run/vercel": "^1.1.1",
     "react": "latest",
     "react-dom": "latest",
     "remix": "latest"
