@@ -103,7 +103,7 @@
   resolved "https://registry.nlark.com/@emotion/memoize/download/@emotion/memoize-0.7.5.tgz#2c40f81449a4e554e9fc6396910ed4843ec2be50"
   integrity sha1-LED4FEmk5VTp/GOWkQ7UhD7CvlA=
 
-"@emotion/react@^11.7.1":
+"@emotion/react@latest":
   version "11.7.1"
   resolved "https://registry.npmmirror.com/@emotion/react/download/@emotion/react-11.7.1.tgz#3f800ce9b20317c13e77b8489ac4a0b922b2fe07"
   integrity sha512-DV2Xe3yhkF1yT4uAUoJcYL1AmrnO5SVsdfvu+fBuS7IbByDeTVx9+wFmvx9Idzv7/78+9Mgx2Hcmr7Fex3tIyw==
@@ -132,7 +132,7 @@
   resolved "https://registry.npmmirror.com/@emotion/sheet/download/@emotion/sheet-1.1.0.tgz#56d99c41f0a1cda2726a05aa6a20afd4c63e58d2"
   integrity sha512-u0AX4aSo25sMAygCuQTzS+HsImZFuS8llY8O7b9MDRzbJM0kVJlAz6KNDqcG7pOuQZJmj/8X/rAW+66kMnMW+g==
 
-"@emotion/styled@^11.6.0":
+"@emotion/styled@latest":
   version "11.6.0"
   resolved "https://registry.npmmirror.com/@emotion/styled/download/@emotion/styled-11.6.0.tgz#9230d1a7bcb2ebf83c6a579f4c80e0664132d81d"
   integrity sha512-mxVtVyIOTmCAkFbwIp+nCjTXJNgcz4VWkOYQro87jE2QBTydnkiYusMrRGFtzuruiGK4dDaNORk4gH049iiQuw==
@@ -176,14 +176,14 @@
     prop-types "^15.7.2"
     react-is "^17.0.2"
 
-"@mui/icons-material@^5.2.5":
+"@mui/icons-material@latest":
   version "5.2.5"
   resolved "https://registry.npmmirror.com/@mui/icons-material/download/@mui/icons-material-5.2.5.tgz#c6575430b565c023232147934c45775630a53f02"
   integrity sha512-uQiUz+l0xy+2jExyKyU19MkMAR2F7bQFcsQ5hdqAtsB14Jw2zlmIAD55mV6f0NxKCut7Rx6cA3ZpfzlzAfoK8Q==
   dependencies:
     "@babel/runtime" "^7.16.3"
 
-"@mui/material@^5.2.7":
+"@mui/material@latest":
   version "5.2.7"
   resolved "https://registry.npmmirror.com/@mui/material/download/@mui/material-5.2.7.tgz#2051da37b3c5176124ee8042d9d4c571af3da93a"
   integrity sha512-JaDl9GJSV17QLf4OoDUZKvVjZ/7UvqOBAxwLwUTnKZEME4REaGTkaAeHrzLpcKCm0LlNGD2HOKAIeykI6WJiqg==
@@ -270,7 +270,7 @@
   resolved "https://registry.npmmirror.com/@popperjs/core/download/@popperjs/core-2.11.2.tgz#830beaec4b4091a9e9398ac50f865ddea52186b9"
   integrity sha512-92FRmppjjqz29VMJ2dn+xdyXZBrMlE42AV6Kq6BwjWV7CNUW1hs2FtxSNLQE+gJhaZ6AAmYuO9y8dshhcBl7vA==
 
-"@remix-run/dev@^1.1.1":
+"@remix-run/dev@latest":
   version "1.1.1"
   resolved "https://registry.npmmirror.com/@remix-run/dev/download/@remix-run/dev-1.1.1.tgz#bbbb93149c88b5d8e992550c6c6e076dce5f424d"
   integrity sha512-dkzMVgMzaQUppf2za3kD+izsEK1hLsLQSVtDD3wN7pBMEbWXaEkWb2X2lj3c9yRDArPB7y5+09rm4SUnE4mL6A==
@@ -315,14 +315,14 @@
     node-fetch "^2.6.1"
     source-map "^0.7.3"
 
-"@remix-run/react@^1.1.1":
+"@remix-run/react@latest":
   version "1.1.1"
   resolved "https://registry.npmmirror.com/@remix-run/react/download/@remix-run/react-1.1.1.tgz#e0b0d15e4f1c76431b5beb6e47a0eb6125b5d09e"
   integrity sha512-vz7my0sqjuL3BpgvSb+pUFjebof54okDLm2wHI09NnlbPS1ILrrp61zeNmDyrA11tFcxS/JrgKS/q1Frk030mg==
   dependencies:
     react-router-dom "^6.2.1"
 
-"@remix-run/serve@^1.1.1":
+"@remix-run/serve@latest":
   version "1.1.1"
   resolved "https://registry.npmmirror.com/@remix-run/serve/download/@remix-run/serve-1.1.1.tgz#2ef222b7d2de3eb449b8028c622504cfbf7d9e96"
   integrity sha512-l9ibxAMFud808OjK0izIWwIP/jCuHsTBdV4FDA6K1Gwjom9uIHyXbBtJNIDYQuoSdRp7F2zM06TkT8jBXLKV2A==
@@ -486,7 +486,7 @@
   resolved "https://registry.npmmirror.com/@types/prop-types/download/@types/prop-types-15.7.4.tgz#fcf7205c25dff795ee79af1e30da2c9790808f11"
   integrity sha1-/PcgXCXf95Xuea8eMNosl5CAjxE=
 
-"@types/react-dom@^17.0.9":
+"@types/react-dom@latest":
   version "17.0.11"
   resolved "https://registry.npmmirror.com/@types/react-dom/download/@types/react-dom-17.0.11.tgz#e1eadc3c5e86bdb5f7684e00274ae228e7bcc466"
   integrity sha512-f96K3k+24RaLGVu/Y2Ng3e1EbZ8/cVJvypZWd7cy0ofCBaf2lcM46xNhycMZ2xGwbBjRql7hOlZ+e2WlJ5MH3Q==
@@ -507,7 +507,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^17.0.24":
+"@types/react@*", "@types/react@latest":
   version "17.0.38"
   resolved "https://registry.npmmirror.com/@types/react/download/@types/react-17.0.38.tgz#f24249fefd89357d5fa71f739a686b8d7c7202bd"
   integrity sha512-SI92X1IA+FMnP3qM5m4QReluXzhcmovhZnLNm3pyeQlooi02qI7sLiepEYqT678uNiyc25XfCqxREFpy3W7YhQ==
@@ -2858,7 +2858,7 @@ raw-body@2.4.2:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-react-dom@^17.0.2:
+react-dom@latest:
   version "17.0.2"
   resolved "https://registry.npmmirror.com/react-dom/download/react-dom-17.0.2.tgz#ecffb6845e3ad8dbfcdc498f0d0a939736502c23"
   integrity sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA==
@@ -2902,7 +2902,7 @@ react-transition-group@^4.4.2:
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
 
-react@^17.0.2:
+react@latest:
   version "17.0.2"
   resolved "https://registry.npmmirror.com/react/download/react-17.0.2.tgz#d0b5cc516d29eb3eee383f75b62864cfb6800037"
   integrity sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA==
@@ -2996,7 +2996,7 @@ remark-rehype@^9.0.0:
     mdast-util-to-hast "^11.0.0"
     unified "^10.0.0"
 
-remix@^1.1.1:
+remix@latest:
   version "1.1.1"
   resolved "https://registry.npmmirror.com/remix/download/remix-1.1.1.tgz#d81c5a2a6ceb94df59f7eeb14a85096b9984b62f"
   integrity sha512-bo/300CdEAidEwn+r+vouPeZgDd+64Uhs4z0nTv1FRNfzt9NhHVLeJHO1M3EPa55imwGhduIzq3uVDxzz1WE1w==
@@ -3311,7 +3311,7 @@ type-is@~1.6.18:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
-typescript@^4.1.2:
+typescript@latest:
   version "4.5.4"
   resolved "https://registry.npmmirror.com/typescript/download/typescript-4.5.4.tgz#a17d3a0263bf5c8723b9c52f43c5084edf13c2e8"
   integrity sha512-VgYs2A2QIRuGphtzFV7aQJduJ2gyfTljngLzjpfW9FoYZF6xuw1W0vW9ghCKLfcWrCFxK81CSGRAvS1pn4fIUg==
