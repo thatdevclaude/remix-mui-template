@@ -8,7 +8,8 @@
   "keywords": [
     "Remix",
     "Mui",
-    "Typescript"
+    "Typescript",
+    "Dark Mode"
   ],
   "scripts": {
     "build": "remix build",

@@ -1,6 +1,6 @@
 # Remix Mui Template
 
-Remix ❤ MUI
+Remix ❤ MUI with **Dark Mode**
 
 - [Remix Docs](https://remix.run/docs)
 - [Mui Docs](https://mui.com/getting-started/usage/)
