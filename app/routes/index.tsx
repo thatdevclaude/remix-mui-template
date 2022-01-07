@@ -9,7 +9,6 @@ import {
   CardMedia,
   Container,
   IconButton,
-  Paper,
   Stack,
   styled,
   Tooltip,
@@ -63,7 +62,7 @@ export default function Index() {
         </Container>
       </Header>
       <Box p={2}>
-        <Typography textAlign="center" variant="h1" my={4} gutterBottom>
+        <Typography textAlign="center" variant="h1" mb={4} gutterBottom>
           Remix ❤ MUI
         </Typography>
 
